@@ -2,14 +2,6 @@
 
 A modern, interactive personal portfolio website built with React and Vite, showcasing professional experience, projects, skills, and education.
 
-## 🚀 Features
-
-- **Modern UI Design** - Clean and professional interface with smooth animations
-- **Responsive Layout** - Fully responsive design that works on all devices
-- **Interactive Navigation** - Smooth scrolling navigation with active section highlighting
-- **Dynamic Components** - Modular React components for easy maintenance
-- **Performance Optimized** - Built with Vite for lightning-fast development and builds
-- **Gradient Themes** - Beautiful gradient color schemes throughout
 
 ## 📋 Sections
 
@@ -76,12 +68,6 @@ The build artifacts will be stored in the `dist/` directory.
 - **Phone**: 07026314169
 - **Website**: mukeshkumarmahato.com
 - **GitHub**: @er-mukeshmahato
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
 
 Built with ♥ using React and Vite
 
